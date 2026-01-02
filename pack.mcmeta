@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Datapack for upgrading beetroot! Goes up to level 8 (9^8 beetroot = 43,046,721). Also decreases drop rate to 1.02.",
+    "min_format": 88,
+    "max_format": 88
+  }
+}

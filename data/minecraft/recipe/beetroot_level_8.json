@@ -1,0 +1,81 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:test_instance_block"
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:debug_stick",
+    "components": {
+      "minecraft:item_name": [
+        {
+          "text": "B",
+          "color": "#FF0000"
+        },
+        {
+          "text": "e",
+          "color": "#FF4000"
+        },
+        {
+          "text": "e",
+          "color": "#FF8000"
+        },
+        {
+          "text": "t",
+          "color": "gold"
+        },
+        {
+          "text": "r",
+          "color": "#FFD000"
+        },
+        {
+          "text": "o",
+          "color": "yellow"
+        },
+        {
+          "text": "o",
+          "color": "#A0FF00"
+        },
+        {
+          "text": "t ",
+          "color": "#40FF00"
+        },
+        {
+          "text": "L",
+          "color": "#00FF40"
+        },
+        {
+          "text": "e",
+          "color": "#00FFA0"
+        },
+        {
+          "text": "v",
+          "color": "#00FFFF"
+        },
+        {
+          "text": "e",
+          "color": "#0080FF"
+        },
+        {
+          "text": "l ",
+          "color": "#0040FF"
+        },
+        {
+          "text": "8",
+          "color": "white",
+          "bold": true,
+          "obfuscated": true
+        }
+      ],
+      "minecraft:item_model": "minecraft:beetroot_8",
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:max_stack_size": 64
+    }
+  }
+}
