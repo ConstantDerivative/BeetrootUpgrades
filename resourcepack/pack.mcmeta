@@ -1,0 +1,7 @@
+{
+	"pack":{
+		"description": "Corresponding resource pack for BeetrootUpgrades, including an animated one for the 8th upgrade which I'm kinda proud of!",
+		"min_format":69,
+		"max_format":75
+	}
+}
