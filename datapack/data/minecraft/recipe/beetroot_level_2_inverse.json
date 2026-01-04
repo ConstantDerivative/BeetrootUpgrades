@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:chain_command_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:command_block",
+    "components": {
+      "minecraft:item_name": {
+        "text": "Beetroot Level 2",
+        "color": "aqua"
+      },
+      "minecraft:item_model": "minecraft:beetroot_2",
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:max_stack_size": 64
+    }
+  }
+}
